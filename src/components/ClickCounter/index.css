@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.whole-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-size: 30px;
+  color: #2d3a35;
+}
+
+.counter-num {
+  color: #c20a72;
+}
+.button {
+  color: #007bff;
+  height: 50px;
+  width: 100px;
+  border: 0 solid;
+  border-radius: 5px;
+  text-align: center;
+}
